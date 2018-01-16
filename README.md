@@ -7,7 +7,7 @@ Tutorial is in the game.
 
 # Download Links:
 
-- I'm using DownGit to download. This is so you dont need to download all src code and all versons -
+--- I'm using DownGit to download. This is so you dont need to download all src code and all versons ---
 
 v1.0:
 
