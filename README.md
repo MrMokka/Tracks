@@ -1,5 +1,7 @@
 # Tracks
 
+Go to builds and find the build verson you want.
+
 A simple game i made myself.
 The idea was from a friend.
 Download as zip and everything is ready to go.
