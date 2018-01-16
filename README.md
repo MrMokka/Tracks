@@ -14,7 +14,14 @@ v1.0 :
 https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MrMokka/Tracks/tree/master/builds/Tracks_v1.0
 
 
+v1.1 :
 
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MrMokka/Tracks/tree/master/builds/Tracks_v1.1
+
+
+v1.15 :
+
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MrMokka/Tracks/tree/master/builds/Tracks_v1.15
 
 
 
