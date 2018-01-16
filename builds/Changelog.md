@@ -18,6 +18,12 @@ Fixed: Made the player indicator color darker.
 
 --------------------------------
 
+v1.15 :
+
+Fixed: Bug, sound started playing after muted and starting game.
+
+--------------------------------
+
 
 
 
